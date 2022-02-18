@@ -1,0 +1,14 @@
+/Users/jaime/testlabs/HEADLINES/headlines/target/rls/debug/deps/ab_glyph-fb055ed638a917fa.rmeta: /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/lib.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/codepoint_ids.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/err.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font_arc.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/glyph.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/outlined.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/scale.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp/outliner.rs
+
+/Users/jaime/testlabs/HEADLINES/headlines/target/rls/debug/deps/ab_glyph-fb055ed638a917fa.d: /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/lib.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/codepoint_ids.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/err.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font_arc.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/glyph.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/outlined.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/scale.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp.rs /Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp/outliner.rs
+
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/lib.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/codepoint_ids.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/err.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/font_arc.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/glyph.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/outlined.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/scale.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp.rs:
+/Users/jaime/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.13/src/ttfp/outliner.rs:
